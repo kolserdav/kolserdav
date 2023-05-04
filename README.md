@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kolserdav
-- 👀 I’m interested in `WebRTC`
-- 🌱 I’m currently learning `Rust`
+- 👀 I’m interested in `NLP`
+- 🌱 I’m currently learning `Python`
 
 
 
