@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergey
+- 👋 Hi, I’m Sergei
 - 👀 I’m interested in `NLP`
 - 🌱 I’m currently learning `Python`
 
