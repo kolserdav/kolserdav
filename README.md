@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergei
-- 👀 I’m interested in `NLP`
-- 🌱 I’m currently learning `Python`
+- 👀 I’m interested in `Cloud`
+- 🌱 I’m currently learning `Go`
 
 
 
